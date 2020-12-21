@@ -1,0 +1,43 @@
+---
+title: "Session 0: Some Title"
+author: "Learning Objectives:"
+---
+
+- ...
+- ...
+- ...
+
+# Resources
+
+## Cheatsheets
+
+- ...
+- ...
+- ...
+
+## Readings
+
+- ...
+- ...
+- ...
+
+## Practice
+
+- ...
+- ...
+- ...
+
+# Topic
+
+## Section 1
+
+## Section 2
+
+## Section 3
+
+# Hack Time!
+
+# Requirements
+
+- Complete [Challenge X: Challenge Name](https://challenge.path.com)
+
