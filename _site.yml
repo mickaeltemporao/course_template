@@ -1,0 +1,32 @@
+name: "REPOLINK"
+exclude: [ "LICENSE", "README.md"]
+navbar:
+  title: "REPOLINK"
+  type: default
+  left:
+    - text: ""
+      href: index.html
+      icon: fa-home fa-lg
+    - text: "Schedule"
+      href: schedule.html
+      icon: fa-tasks fa-lg
+    - text: "Project"
+      href: tba.html
+      icon: fa-file-code fa-lg
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/mickaeltemporao/REPOLINK
+output_dir: "docs"
+output:
+  html_document:
+    theme: cosmo
+    highlight: zenburn
+    include:
+      after_body: footer.html
+    self_contained: false
+    toc: true
+    toc_depth: 2
+    toc_float:
+      collapsed: true
+    html5: true
+
