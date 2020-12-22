@@ -1,18 +1,18 @@
 name: "REPOLINK"
 exclude: [ "LICENSE", "README.md"]
 navbar:
-  title: "REPOLINK"
+  title: "REPOLINK Sallybus"
   type: default
   left:
-    - text: ""
+    - text: "Home"
       href: index.html
       icon: fa-home fa-lg
     - text: "Schedule"
       href: schedule.html
-      icon: fa-tasks fa-lg
-    - text: "Project"
-      href: tba.html
-      icon: fa-file-code fa-lg
+      icon: fa-calendar-alt fa-lg
+    - text: "Assignments"
+      href: assignments.html
+      icon: fa-trophy fa-lg
   right:
     - icon: fa-github fa-lg
       href: https://github.com/mickaeltemporao/REPOLINK
