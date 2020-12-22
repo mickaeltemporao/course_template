@@ -1,0 +1,42 @@
+---
+title: "Schedule"
+---
+
+This schedule is an approximation, subject to change due to the needs of the students in the course. Students will be informed of changes to the schedule.
+
+
+| Week    |  Topic                | Assignment    |
+| :-:     |  :-                   | -             |
+| [Week 01](#Week_1) | Topic 1    |               |
+| Week 02 |  Topic 2              |               |
+| Week 03 |  Topic 3              |               |
+| Week 04 |  Topic 4              | Ideation      |
+| Week 05 |  Topic 5              |               |
+| Week 06 |  Topic 6              |               |
+| Week 07 |  Topic 7              |               |
+| Week 08 |  Topic 8              | Summary       |
+| Week 09 |  Topic 9              |               |
+| Week 10 |  Topic 10             |               |
+| Week 11 |  Topic 11             |               |
+| Week 12 |  Topic 12             | Project       |
+
+
+# Week 1
+
+## Topic
+
+**Topics:** Computational social science: research opportunities and challenges. Ethics of social science research in the digital age. Big data, big bias?
+
+
+## Support Videos
+
+- ...
+- ...
+- ...
+
+## Readings
+
+- ...
+- ...
+- ...
+
