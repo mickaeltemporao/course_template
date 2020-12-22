@@ -4,6 +4,7 @@ title: "Schedule"
 
 This schedule is an approximation, subject to change due to the needs of the students in the course. Students will be informed of changes to the schedule.
 
+# Overview
 
 | Week    |  Topic                | Assignment    |
 | :-:     |  :-                   | -             |
@@ -25,7 +26,7 @@ This schedule is an approximation, subject to change due to the needs of the stu
 
 ## Topic
 
-**Topics:** Computational social science: research opportunities and challenges. Ethics of social science research in the digital age. Big data, big bias?
+**Topics:** Some random topic description for this lesson.
 
 
 ## Support Videos
